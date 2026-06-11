@@ -1,6 +1,4 @@
-﻿using TP_POO_Lijtenstein_Valen.Vehiculos;
-
-Console.WriteLine("===== SISTEMA DE VEHÍCULOS =====");
+﻿Console.WriteLine("===== SISTEMA DE VEHÍCULOS =====");
 
 List<Vehiculo> vehiculos = new List<Vehiculo>();
 
