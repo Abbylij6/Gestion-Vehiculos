@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abby Lij\\Desktop\\Gestion vehicular\\Gestion-Vehiculos\\Gestion-vehiculos.csproj": {}
+    "C:\\Users\\Valentina\\OneDrive\\Escritorio\\Programación\\sistemaVehiculos\\Gestion-Vehiculos\\Gestion-vehiculos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abby Lij\\Desktop\\Gestion vehicular\\Gestion-Vehiculos\\Gestion-vehiculos.csproj": {
+    "C:\\Users\\Valentina\\OneDrive\\Escritorio\\Programación\\sistemaVehiculos\\Gestion-Vehiculos\\Gestion-vehiculos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abby Lij\\Desktop\\Gestion vehicular\\Gestion-Vehiculos\\Gestion-vehiculos.csproj",
+        "projectUniqueName": "C:\\Users\\Valentina\\OneDrive\\Escritorio\\Programación\\sistemaVehiculos\\Gestion-Vehiculos\\Gestion-vehiculos.csproj",
         "projectName": "Gestion-vehiculos",
-        "projectPath": "C:\\Users\\Abby Lij\\Desktop\\Gestion vehicular\\Gestion-Vehiculos\\Gestion-vehiculos.csproj",
-        "packagesPath": "C:\\Users\\Abby Lij\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abby Lij\\Desktop\\Gestion vehicular\\Gestion-Vehiculos\\obj\\",
+        "projectPath": "C:\\Users\\Valentina\\OneDrive\\Escritorio\\Programación\\sistemaVehiculos\\Gestion-Vehiculos\\Gestion-vehiculos.csproj",
+        "packagesPath": "C:\\Users\\Valentina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valentina\\OneDrive\\Escritorio\\Programación\\sistemaVehiculos\\Gestion-Vehiculos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abby Lij\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Valentina\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
